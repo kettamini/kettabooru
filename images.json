@@ -70,6 +70,14 @@
     ]
   },
   {
+    "file": "images/beastars_01.png",
+    "thumb": "thumbs/beastars_01.jpg",
+    "date": "2026-03-12T06:25:06Z",
+    "tags": [
+      "beastars"
+    ]
+  },
+  {
     "file": "images/beyond_citadel_01.jpg",
     "thumb": "thumbs/beyond_citadel_01.jpg",
     "date": "2025-11-16T10:20:31Z",
@@ -425,6 +433,14 @@
     "tags": [
       "oc",
       "sketch"
+    ]
+  },
+  {
+    "file": "images/oc_04.png",
+    "thumb": "thumbs/oc_04.jpg",
+    "date": "2026-03-12T06:17:23Z",
+    "tags": [
+      "oc"
     ]
   },
   {
